@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borna", "Borna\Borna.csproj", "{45A4DD69-D521-4C4A-AA27-88AEC7D48413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|STM7100_SDK (ARMV4I) = Debug|STM7100_SDK (ARMV4I)
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|STM7100_SDK (ARMV4I) = Release|STM7100_SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Debug|STM7100_SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{45A4DD69-D521-4C4A-AA27-88AEC7D48413}.Release|STM7100_SDK (ARMV4I).ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
